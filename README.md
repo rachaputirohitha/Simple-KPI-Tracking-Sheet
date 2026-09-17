@@ -41,6 +41,7 @@ Transform raw order data into business-ready KPIs and summarize sales performanc
 This task strengthened practical skills in spreadsheet-based data analysis, KPI calculation, Pivot Tables, and business reporting.
 
 ## Screenshots
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4b4dca53-2303-42e7-8877-23c8b553adea" />
+<img width="1600" height="900" alt="Screenshot (289)" src="https://github.com/user-attachments/assets/6c2ea9f0-5c19-4ea4-8c2d-ac4745fa36be" />
+
 <img width="1600" height="900" alt="Screenshot (290)" src="https://github.com/user-attachments/assets/810f4fb9-fcf1-4bcf-b0ef-3a203421efce" />
 
